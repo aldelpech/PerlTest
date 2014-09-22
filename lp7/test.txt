@@ -1,0 +1,22 @@
+I love Fred 
+I dislike fred but love Fred
+what fred has done is very bad
+Alfred is another name which might be matched
+What about frederick ?
+What about Frederick ?
+What about FRED ? 
+What about FREDERICK ? 
+Fred said Yabadabbo
+fred will be matched.
+Fred won't be matched
+Mr Slate. 
+a=b+c+fred+whatever with a '.'
+fred has bought a llama. 
+Fred also went to Mississipi. 
+Bamm-Bamm when fred fell, but wilma didn't. 
+Wilma is back
+wilma is not there
+Wilma and Fred are at the party 
+fred and wilma are here
+as are wilma and fred
+EOF

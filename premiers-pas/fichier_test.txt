@@ -1,0 +1,9 @@
+Hello, World !
+Il a sûrement dû
+vous paraître surprenant 
+que nous abordions l'interaction
+avec les fichiers dans un chapitre
+sur les boucles. 
+
+ha ha
+
